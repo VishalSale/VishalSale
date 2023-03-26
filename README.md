@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishalSale
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Java, Python, HTML
+- 🌱 I’m currently learning Java, Python, HTML,CSS, JavaScript, Bootstrap.
 - 💞️ I’m looking to collaborate on learn new Technology
 - 📫 How to reach me Vishalsale802@gmail.com
 
