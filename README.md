@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishalSale
-- 👀 I’m interested in *AI, Web Development, Software Development.*
+- 👀 I’m interested in *AI, Python Development, Web Development, Software Development.*
 - 🌱 I’m currently learning **Java, Python, Django, HTML 5, CSS 3, JavaScript ES6, Bootstrap 5, React.js**
 - 💞️ I’m looking to collaborate on learn new Technology
 - 📫 How to reach me *vishalsale802@gmail.com*
